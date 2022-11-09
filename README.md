@@ -1,2 +1,2 @@
 # freecodecamp-celestial-body-db
-A FreeCodeCamp project for earn my certification
+A FreeCodeCamp project to earn my certification
